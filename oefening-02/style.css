@@ -1,4 +1,7 @@
 aside {
+  position: absolute; /*fixed-position*/
+  bottom: 20px; 
+  right: 20px; 
   padding: 20px;
   text-align: center;
   width: 200px;
